@@ -1,0 +1,2 @@
+Create a new branch named a "feature" and switch to it.
+Make changes in the new branch and commit it.
