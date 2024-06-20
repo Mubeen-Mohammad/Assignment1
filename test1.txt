@@ -1,0 +1,2 @@
+Create branch "hotfix" branch to fix an issue in main code.
+Merge the hotfix branch into the main ensuring that the issue is resolved. 
