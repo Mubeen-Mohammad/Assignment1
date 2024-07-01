@@ -1,0 +1,28 @@
+
+        /* Custom styles */
+.custom-table {
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.custom-card {
+    background-color: #f8f9fa;
+    border: none;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.custom-card .card-title {
+    color: #333;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.custom-card .btn-primary {
+    background-color: #5cb85c;
+    border-color: #5cb85c;
+}
+
+.custom-card .btn-primary:hover {
+    background-color: #4cae4c;
+    border-color: #4cae4c;
+}
