@@ -1,0 +1,27 @@
+<!-- Assignment 2: Use regular expressions in JavaScript to validate the email address entered in the form. 
+It should check for the correct format of the email and display a message to the user if the format is incorrect.-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Email Validation</title>
+    <style>
+        .error {
+            color: red;
+        }
+        
+    
+    </style>
+</head>
+<body>
+    <form id="emailForm">
+        <label for="email" >Email:</label>
+        <input type="text" id="email" name="email">
+        <button type="submit">Submit</button>
+        <p id="errorMessage" class="error"></p>
+    </form>
+
+    <script src="email.js"></script>
+</body>
+</html>
